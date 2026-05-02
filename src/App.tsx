@@ -396,7 +396,7 @@ function About() {
             </div>
             <div className="mt-8 flex flex-wrap gap-4">
               <div className="bg-white rounded-xl p-4 shadow-md">
-                <p className="text-3xl font-bold text-blue-600">15+</p>
+                <p className="text-3xl font-bold text-blue-600">02+</p>
                 <p className="text-sm text-gray-500">Years in Business</p>
               </div>
               <div className="bg-white rounded-xl p-4 shadow-md">
@@ -404,8 +404,7 @@ function About() {
                 <p className="text-sm text-gray-500">Products</p>
               </div>
               <div className="bg-white rounded-xl p-4 shadow-md">
-                <p className="text-3xl font-bold text-blue-600">1000+</p>
-                <p className="text-sm text-gray-500">Happy Customers</p>
+               
               </div>
             </div>
           </div>
@@ -451,8 +450,8 @@ function Contact() {
             <h3 className="text-xl font-bold text-gray-900 mb-2">Visit Our Store</h3>
             <p className="text-gray-600">
               Ram Electricals Spare Parts<br />
-              Main Market Road<br />
-              Industrial Area, City - 123456
+              Kumbhephal,Shendra<br />
+              Industrial Area,Chatrapati Sambhajinagar- 431001
             </p>
           </div>
           
